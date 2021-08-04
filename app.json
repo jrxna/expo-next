@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "expo-next",
+    "slug": "expo-next",
+    "version": "1.0.0",
+    "sdkVersion": "42.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "business.namaste.web"
+    },
+    "ios": {
+      "bundleIdentifier": "business.namaste.web"
+    }
+  }
+}
